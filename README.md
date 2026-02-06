@@ -1,6 +1,6 @@
 The Secure Appointment Scheduling System is a full-stack platform designed to manage appointment booking, availability, and scheduling workflows in a secure, scalable, and maintainable manner.
 
-<b>System Objectives:</b>
+<b>System Objectives:</b><br>
 
 1.Reliable appointment booking and management<br>
 2.Enforcement of scheduling and availability rules<br>
@@ -8,7 +8,7 @@ The Secure Appointment Scheduling System is a full-stack platform designed to ma
 4.Scalable architecture suitable for cloud deployment<br>
 5.Clear separation of concerns across services and layers<br>
 
-<b>System Architecture:</b>
+<b>System Architecture:</b><br>
 ├── Frontend (ReactTypscript)<br>
 ├── Backend (ASP.NET)<br>
 ├──── Application<br>
@@ -17,7 +17,7 @@ The Secure Appointment Scheduling System is a full-stack platform designed to ma
 ├──── Api<br>
 ├── Messaging (RabbitMQ)<br>
 
-<b>Security Considerations: </b>
+<b>Security Considerations: </b><br>
 
 1. Security is a first-class concern throughout the system:<br>
 2. Input validation and strict data contracts<br>
@@ -26,7 +26,7 @@ The Secure Appointment Scheduling System is a full-stack platform designed to ma
 5. Secure API communication patterns<br>
 6. Designed to integrate with modern authentication mechanisms (JWT, OAuth)<br>
 
-<b>Stack</b>
+<b>Stack</b><br>
 Frontend
       React
 
@@ -53,7 +53,7 @@ Frontend
       Azure (Cloud Hosting & Deployment)
 
 
-<b>Testing Strategy</b>
+<b>Testing Strategy</b><br>
 
 Domain layer unit tests
 
@@ -66,7 +66,7 @@ Frontend component and interaction tests
 
 
 
-<b>Deployment</b>
+<b>Deployment</b><br>
 
 The system is designed for cloud deployment using Azure:
 
