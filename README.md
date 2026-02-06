@@ -28,6 +28,7 @@ The Secure Appointment Scheduling System is a full-stack platform designed to ma
 
 <b>Stack</b><br>
 Frontend
+
       React
 
       TypeScript
