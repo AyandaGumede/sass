@@ -2,50 +2,49 @@ The Secure Appointment Scheduling System is a full-stack platform designed to ma
 
 <b>System Objectives:</b>
 
-1.Reliable appointment booking and management
-2.Enforcement of scheduling and availability rules
-3.Secure handling of user and appointment data
-4.Scalable architecture suitable for cloud deployment
-5.Clear separation of concerns across services and layers
+1.Reliable appointment booking and management<br>
+2.Enforcement of scheduling and availability rules<br>
+3.Secure handling of user and appointment data<br>
+4.Scalable architecture suitable for cloud deployment<br>
+5.Clear separation of concerns across services and layers<br>
 
 <b>System Architecture:</b>
-├── Frontend (ReactTypscript)
-├── Backend (ASP.NET)
-├──── Application
-├──── Domain
-├──── Infrastructure
-├──── Api
-├── Messaging (RabbitMQ)
+├── Frontend (ReactTypscript)<br>
+├── Backend (ASP.NET)<br>
+├──── Application<br>
+├──── Domain<br>
+├──── Infrastructure<br>
+├──── Api<br>
+├── Messaging (RabbitMQ)<br>
 
 <b>Security Considerations: </b>
 
-1. Security is a first-class concern throughout the system:
-2. Input validation and strict data contracts
-3. Appointment conflict and availability enforcement
-4. Role-based access control (extensible)
-5. Secure API communication patterns
-6. Designed to integrate with modern authentication mechanisms (JWT, OAuth)
+1. Security is a first-class concern throughout the system:<br>
+2. Input validation and strict data contracts<br>
+3. Appointment conflict and availability enforcement<br>
+4. Role-based access control (extensible)<br>
+5. Secure API communication patterns<br>
+6. Designed to integrate with modern authentication mechanisms (JWT, OAuth)<br>
 
 <b>Stack</b>
-
-├──── Frontend
+Frontend
       React
 
       TypeScript
 
-├──── Backend
+ Backend
 
       ASP.NET Core
 
       Clean Architecture
 
-├──── Data & Messaging
+ Data & Messaging
 
       PostgreSQL
 
       RabbitMQ
 
-├──── DevOps & Tooling
+ DevOps & Tooling
 
       Docker
 
