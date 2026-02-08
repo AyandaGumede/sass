@@ -1,0 +1,27 @@
+# =====================
+# OS
+# =====================
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# =====================
+# Visual Studio / .NET
+# =====================
+.vs/
+bin/
+obj/
+*.user
+
+# =====================
+# Node / Frontend
+# =====================
+node_modules/
+dist/
+build/
+
+# =====================
+# Env / Secrets
+# =====================
+.env
+.env.local
