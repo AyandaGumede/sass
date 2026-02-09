@@ -26,3 +26,4 @@ build/
 .env
 .env.local
 /sass_backend/appsettings.Development.json
+**/appsettings.Development.json

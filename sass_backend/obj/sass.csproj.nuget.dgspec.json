@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gumed\\Desktop\\Backend\\sass\\sass.csproj": {}
+    "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\sass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gumed\\Desktop\\Backend\\sass\\sass.csproj": {
+    "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\sass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gumed\\Desktop\\Backend\\sass\\sass.csproj",
+        "projectUniqueName": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\sass.csproj",
         "projectName": "sass",
-        "projectPath": "C:\\Users\\gumed\\Desktop\\Backend\\sass\\sass.csproj",
+        "projectPath": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\sass.csproj",
         "packagesPath": "C:\\Users\\gumed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gumed\\Desktop\\Backend\\sass\\obj\\",
+        "outputPath": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,9 +50,47 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.3.9, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.15.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.15.0, )"
             }
           },
           "imports": [
