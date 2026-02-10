@@ -19,6 +19,9 @@ namespace sass.Domain.Entities
         public string EmailAddress { get; set; }
 
         [Required]
+        public string Role {  get; set; } = string.Empty;
+
+        [Required]
         [MinLength(3)]
         public string PasswordHash { get; set; } = string.Empty;
     }

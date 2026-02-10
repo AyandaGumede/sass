@@ -3,40 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9088DED7-DC27-40B9-BF68-1659D78BEA9D}|sass.csproj|c:\\users\\gumed\\source\\secureapplicationschedulingsystem\\sass_backend\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9088DED7-DC27-40B9-BF68-1659D78BEA9D}|sass.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9088DED7-DC27-40B9-BF68-1659D78BEA9D}|sass.csproj|c:\\users\\gumed\\source\\secureapplicationschedulingsystem\\sass_backend\\application\\services\\jwt\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9088DED7-DC27-40B9-BF68-1659D78BEA9D}|sass.csproj|solutionrelative:application\\services\\jwt\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9088DED7-DC27-40B9-BF68-1659D78BEA9D}|sass.csproj|c:\\users\\gumed\\source\\secureapplicationschedulingsystem\\sass_backend\\domain\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9088DED7-DC27-40B9-BF68-1659D78BEA9D}|sass.csproj|solutionrelative:domain\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9088DED7-DC27-40B9-BF68-1659D78BEA9D}|sass.csproj|c:\\users\\gumed\\source\\secureapplicationschedulingsystem\\sass_backend\\application\\services\\authentication\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9088DED7-DC27-40B9-BF68-1659D78BEA9D}|sass.csproj|solutionrelative:application\\services\\authentication\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9088DED7-DC27-40B9-BF68-1659D78BEA9D}|sass.csproj|c:\\users\\gumed\\source\\secureapplicationschedulingsystem\\sass_backend\\application\\interfaces\\authentication\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9088DED7-DC27-40B9-BF68-1659D78BEA9D}|sass.csproj|solutionrelative:application\\interfaces\\authentication\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9088DED7-DC27-40B9-BF68-1659D78BEA9D}|sass.csproj|c:\\users\\gumed\\source\\secureapplicationschedulingsystem\\sass_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9088DED7-DC27-40B9-BF68-1659D78BEA9D}|sass.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9088DED7-DC27-40B9-BF68-1659D78BEA9D}|sass.csproj|c:\\users\\gumed\\source\\secureapplicationschedulingsystem\\sass_backend\\infrastructure\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9088DED7-DC27-40B9-BF68-1659D78BEA9D}|sass.csproj|solutionrelative:infrastructure\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9088DED7-DC27-40B9-BF68-1659D78BEA9D}|sass.csproj|c:\\users\\gumed\\source\\secureapplicationschedulingsystem\\sass_backend\\domain\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9088DED7-DC27-40B9-BF68-1659D78BEA9D}|sass.csproj|solutionrelative:domain\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9088DED7-DC27-40B9-BF68-1659D78BEA9D}|sass.csproj|c:\\users\\gumed\\source\\secureapplicationschedulingsystem\\sass_backend\\application\\interfaces\\jwt\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9088DED7-DC27-40B9-BF68-1659D78BEA9D}|sass.csproj|solutionrelative:application\\interfaces\\jwt\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9088DED7-DC27-40B9-BF68-1659D78BEA9D}|sass.csproj|c:\\users\\gumed\\source\\secureapplicationschedulingsystem\\sass_backend\\application\\dtos\\authentication\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9088DED7-DC27-40B9-BF68-1659D78BEA9D}|sass.csproj|solutionrelative:application\\dtos\\authentication\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,129 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 257,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Domain\\Entities\\Users.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Users.cs",
-              "ToolTip": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Domain\\Entities\\Users.cs",
-              "RelativeToolTip": "Domain\\Entities\\Users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T09:02:43.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Infrastructure\\Repository\\AuthRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\AuthRepository.cs",
-              "ToolTip": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Infrastructure\\Repository\\AuthRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\AuthRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T08:48:25.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IAuthRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Domain\\Interfaces\\IAuthRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IAuthRepository.cs",
-              "ToolTip": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Domain\\Interfaces\\IAuthRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IAuthRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T08:47:59.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JwtTokenService.cs",
-              "DocumentMoniker": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Application\\Services\\Jwt\\JwtTokenService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Jwt\\JwtTokenService.cs",
-              "ToolTip": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Application\\Services\\Jwt\\JwtTokenService.cs",
-              "RelativeToolTip": "Application\\Services\\Jwt\\JwtTokenService.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAiwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T08:22:46.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Application\\Services\\Authentication\\AuthService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Authentication\\AuthService.cs",
-              "ToolTip": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Application\\Services\\Authentication\\AuthService.cs",
-              "RelativeToolTip": "Application\\Services\\Authentication\\AuthService.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAADwvz4AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T08:22:31.952Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T08:52:51.729Z",
+              "WhenOpened": "2026-02-09T09:26:44.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Application\\Interfaces\\Authentication\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Authentication\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Application\\Interfaces\\Authentication\\IAuthService.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Authentication\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Infrastructure\\Repository\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Infrastructure\\Repository\\AuthRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\AuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T08:22:20.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IJwtTokenService.cs",
-              "DocumentMoniker": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Application\\Interfaces\\JWT\\IJwtTokenService.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\JWT\\IJwtTokenService.cs",
-              "ToolTip": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Application\\Interfaces\\JWT\\IJwtTokenService.cs",
-              "RelativeToolTip": "Application\\Interfaces\\JWT\\IJwtTokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T08:22:26.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthResultDTO.cs",
-              "DocumentMoniker": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Application\\DTOs\\Authentication\\AuthResultDTO.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\Authentication\\AuthResultDTO.cs",
-              "ToolTip": "C:\\Users\\gumed\\Source\\SecureApplicationSchedulingSystem\\sass_backend\\Application\\DTOs\\Authentication\\AuthResultDTO.cs",
-              "RelativeToolTip": "Application\\DTOs\\Authentication\\AuthResultDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T08:34:50.617Z",
+              "WhenOpened": "2026-02-09T09:22:12.772Z",
               "EditorCaption": ""
             }
           ]
