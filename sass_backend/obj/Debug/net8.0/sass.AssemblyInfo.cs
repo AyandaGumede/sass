@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c09b8858a228adca274f93dbe03a6c73482302f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50755f379355ca0fb1f0400fdada57d94c385cc5")]
 [assembly: System.Reflection.AssemblyProductAttribute("sass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
